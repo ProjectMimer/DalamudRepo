@@ -10,8 +10,7 @@
         "InternalName": "xivr",
         "ApplicableVersion": "any",
         "CategoryTags": [
-            "utility",
-            "vr"
+            "utility"
         ],
         "DalamudApiLevel": 7,
         "IconUrl": "",
