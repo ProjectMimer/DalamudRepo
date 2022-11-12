@@ -22,6 +22,7 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/ProjectMimer/DalamudRepo/main/release/download/xivr/0.0.0.2/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/ProjectMimer/DalamudRepo/main/release/download/xivr/0.0.0.2/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/ProjectMimer/DalamudRepo/main/release/download/xivr/0.0.0.2/latest.zip",
-        "DownloadCount": 0
+        "DownloadCount": 0,
+        "LastUpdate": "1667950104"
     }
 ]
