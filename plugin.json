@@ -7,7 +7,7 @@
         "Changelog": "",
         "RepoUrl": "https://github.com/ProjectMimer/xivr",
         "InternalName": "xivr",
-        "AssemblyVersion": "0.0.0.1",
+        "AssemblyVersion": "0.0.0.2",
         "InternalName": "xivr",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -20,9 +20,9 @@
             ""
         ],
         "IsTestingExclusive": true,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/ProjectMimer/DalamudRepo/main/release/download/xivr/0.0.0.1/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/ProjectMimer/DalamudRepo/main/release/download/xivr/0.0.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/ProjectMimer/DalamudRepo/main/release/download/xivr/0.0.0.1/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/ProjectMimer/DalamudRepo/main/release/download/xivr/0.0.0.2/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/ProjectMimer/DalamudRepo/main/release/download/xivr/0.0.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/ProjectMimer/DalamudRepo/main/release/download/xivr/0.0.0.2/latest.zip",
         "DownloadCount": 0
     }
 ]
