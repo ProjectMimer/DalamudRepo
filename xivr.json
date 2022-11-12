@@ -10,15 +10,15 @@
         "InternalName": "xivr",
         "ApplicableVersion": "any",
         "CategoryTags": [
-            "vr",
-            "plugin"
+            "utility",
+            "vr"
         ],
         "DalamudApiLevel": 7,
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "IsTestingExclusive": true,
+        "IsTestingExclusive": false,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/ProjectMimer/DalamudRepo/main/release/download/xivr/0.0.0.2/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/ProjectMimer/DalamudRepo/main/release/download/xivr/0.0.0.2/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/ProjectMimer/DalamudRepo/main/release/download/xivr/0.0.0.2/latest.zip",
