@@ -19,10 +19,11 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/ProjectMimer/DalamudRepo/releases/download/0.0.0.1/latest.zip",
+        "DownloadLinkInstall": "https://github.com/ProjectMimer/DalamudRepo/raw/main/release/download/xivr/0.0.0.1/latest.zip",
         "IsTestingExclusive": true,
-        "DownloadLinkTesting": "https://github.com/ProjectMimer/DalamudRepo/releases/download/0.0.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/ProjectMimer/DalamudRepo/releases/download/0.0.0.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/ProjectMimer/DalamudRepo/raw/main/release/download/xivr/0.0.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/ProjectMimer/DalamudRepo/raw/main/release/download/xivr/0.0.0.1/latest.zip",
         "DownloadCount": 0
     }
 ]
+
